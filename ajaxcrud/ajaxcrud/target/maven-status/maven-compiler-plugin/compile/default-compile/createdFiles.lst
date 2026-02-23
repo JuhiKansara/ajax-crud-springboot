@@ -1,0 +1,4 @@
+com\example\ajaxcrud\controller\StudentController.class
+com\example\ajaxcrud\repository\StudentRepository.class
+com\example\ajaxcrud\AjaxcrudApplication.class
+com\example\ajaxcrud\model\Student.class
